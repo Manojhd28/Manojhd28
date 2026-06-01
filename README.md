@@ -37,10 +37,10 @@
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anubhav9415&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav9415&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manojhd28&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manojhd28&layout=compact&theme=dark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Anubhav9415&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Manojhd28&theme=dark)
 
 
 
