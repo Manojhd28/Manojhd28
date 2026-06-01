@@ -1,61 +1,138 @@
-# 👋 Hi there! I'm Manoj H D
+# 👋 Hi, I'm Manoj H D
 
-🚀 Devops engineer 
+## 🚀 DevOps Engineer | AWS Cloud | Linux | Docker | Kubernetes | Terraform | Jenkins
 
-- 💻 Specialized in building high-performance clones and real-world applications  
-- 📱 Expert in React, Node.js, MongoDB  
-- 🌱 Currently learning System Design & Cloud  
+Passionate about Cloud Computing, Infrastructure Automation, CI/CD Pipelines, Containerization, and DevOps best practices. I enjoy building scalable, reliable, and automated solutions that improve deployment efficiency and system performance.
 
-🛠 Tech Stack
+---
 
-<table align="center">
-  <tr>
-    <th>Frontend</th>
-    <th>Backend</th>
-    <th>Tools</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br/><br/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/><br/><br/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/><br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/><br/><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br/><br/>
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
-    </td>
-  </tr>
-</table>
+## 🛠 Technical Skills
 
+### Programming
 
+* Java
+* SQL
+* Shell Scripting (Bash)
 
-## 📊 GitHub Activity
+### Operating Systems
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manojhd28&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manojhd28&layout=compact&theme=dark)
+* Linux
+* Windows
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Manojhd28&theme=dark)
+### AWS Cloud Services
 
+* EC2
+* S3
+* EBS
+* Auto Scaling Groups (ASG)
+* Elastic Load Balancer (ELB)
+* Application Load Balancer (ALB)
+* VPC
+* CloudWatch
+* SNS
+* RDS
+* IAM
+* CloudFront
 
+### DevOps Tools
 
+* Git
+* GitHub
+* Maven
+* Jenkins
+* Docker
+* Docker Hub
+* Ansible
+* Terraform
+* Kubernetes
 
-## 🤝 Connect with Me
+### Web Servers
+
+* Apache Tomcat
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Kubernetes
+* AWS Architecture
+* GitOps
+* System Design
+* CI/CD Best Practices
+
+---
+
+## 💼 DevOps Projects
+
+### 🚀 CI/CD Pipeline with Jenkins
+
+* Automated build, test, and deployment process
+* Integrated GitHub, Maven, and Jenkins
+* Reduced manual deployment effort
+
+### 🐳 Dockerized Java Application
+
+* Containerized Java application using Docker
+* Created reusable Docker images
+* Improved deployment consistency
+
+### ☸ Kubernetes Deployment
+
+* Deployed applications on Kubernetes clusters
+* Configured Services and Deployments
+* Implemented rolling updates
+
+### ☁ AWS Infrastructure Automation
+
+* Provisioned AWS resources using Terraform
+* Managed infrastructure as code
+* Automated cloud resource deployment
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manojhd28\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Manojhd28\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manojhd28\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🏆 Certifications & Learning
+
+* AWS Cloud
+* DevOps Fundamentals
+* Linux Administration
+* Docker & Kubernetes
+
+---
+
+## 🎯 Career Objective
+
+Seeking opportunities as a DevOps Engineer where I can leverage my skills in cloud computing, automation, containerization, and infrastructure management to deliver scalable and reliable solutions.
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Anubhav9415" target="_blank">
+  <a href="https://www.linkedin.com/in/manoj-h-d-6a781a293/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto: anubhavmishra981@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:manojd045@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anubhav9415&label=PROFILE+VIEWS&color=blueviolet&style=flat" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manojhd28&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+⭐ "Automate Everything, Scale Anywhere."
