@@ -1,138 +1,178 @@
-# 👋 Hi, I'm Manoj H D
+<div align="center">
 
-## 🚀 DevOps Engineer | AWS Cloud | Linux | Docker | Kubernetes | Terraform | Jenkins
+# 🚀 Manoj H D
 
-Passionate about Cloud Computing, Infrastructure Automation, CI/CD Pipelines, Containerization, and DevOps best practices. I enjoy building scalable, reliable, and automated solutions that improve deployment efficiency and system performance.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=☕+Java+Developer;🚀+DevOps+Engineer;☁️+AWS+Cloud+Practitioner;🐳+Docker+%7C+☸️+Kubernetes+%7C+Terraform;⚡+CI%2FCD+Automation+Specialist" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+
+</div>
 
 ---
 
-## 🛠 Technical Skills
+# 👨‍💻 About Me
 
-### Programming
+☕ Passionate Java Developer with strong Object-Oriented Programming skills.
 
-* Java
-* SQL
-* Shell Scripting (Bash)
+🚀 DevOps Engineer focused on automation, CI/CD, containerization, and cloud technologies.
 
-### Operating Systems
+☁️ Experienced with AWS services and Infrastructure as Code.
 
-* Linux
-* Windows
+📚 Continuously learning modern DevOps and Cloud-native technologies.
 
-### AWS Cloud Services
+🎯 Goal: Build scalable applications and automate everything.
 
-* EC2
-* S3
-* EBS
-* Auto Scaling Groups (ASG)
-* Elastic Load Balancer (ELB)
-* Application Load Balancer (ALB)
-* VPC
-* CloudWatch
-* SNS
-* RDS
-* IAM
-* CloudFront
+---
 
-### DevOps Tools
+# 🛠️ Tech Stack
 
-* Git
+### ☕ Java Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,mysql,maven" />
+</p>
+
+### 🚀 DevOps Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,docker,kubernetes,terraform,ansible" />
+</p>
+
+### ☁️ Cloud Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+### 💻 Operating Systems
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,windows" />
+</p>
+
+---
+
+# ☁️ AWS Services
+
+<div align="center">
+
+| Compute | Storage    | Network      | Security        | Monitoring |
+| ------- | ---------- | ------------ | --------------- | ---------- |
+| EC2     | S3         | VPC          | IAM             | CloudWatch |
+| ASG     | EBS        | ELB          | Security Groups | SNS        |
+| ALB     | CloudFront | Route Tables | IAM Roles       | Logs       |
+
+</div>
+
+---
+
+# 🔥 Featured Projects
+
+### ☕ Java Employee Management System
+
+* Core Java
+* JDBC
+* MySQL
+* Exception Handling
+* CRUD Operations
+
+### 🚀 CI/CD Pipeline
+
 * GitHub
 * Maven
 * Jenkins
 * Docker
-* Docker Hub
-* Ansible
-* Terraform
-* Kubernetes
-
-### Web Servers
-
-* Apache Tomcat
-
----
-
-## 🌱 Currently Learning
-
-* Advanced Kubernetes
-* AWS Architecture
-* GitOps
-* System Design
-* CI/CD Best Practices
-
----
-
-## 💼 DevOps Projects
-
-### 🚀 CI/CD Pipeline with Jenkins
-
-* Automated build, test, and deployment process
-* Integrated GitHub, Maven, and Jenkins
-* Reduced manual deployment effort
+* Automated Deployment
 
 ### 🐳 Dockerized Java Application
 
-* Containerized Java application using Docker
-* Created reusable Docker images
-* Improved deployment consistency
+* Docker Image Creation
+* Docker Hub Integration
+* Container Management
 
-### ☸ Kubernetes Deployment
+### ☸️ Kubernetes Deployment
 
-* Deployed applications on Kubernetes clusters
-* Configured Services and Deployments
-* Implemented rolling updates
+* Deployments
+* Services
+* Scaling
+* Rolling Updates
 
-### ☁ AWS Infrastructure Automation
+### ☁️ Terraform AWS Infrastructure
 
-* Provisioned AWS resources using Terraform
-* Managed infrastructure as code
-* Automated cloud resource deployment
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manojhd28\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Manojhd28\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manojhd28\&layout=compact\&theme=tokyonight)
+* Infrastructure as Code
+* EC2 Provisioning
+* Reusable Modules
 
 ---
 
-## 🏆 Certifications & Learning
-
-* AWS Cloud
-* DevOps Fundamentals
-* Linux Administration
-* Docker & Kubernetes
-
----
-
-## 🎯 Career Objective
-
-Seeking opportunities as a DevOps Engineer where I can leverage my skills in cloud computing, automation, containerization, and infrastructure management to deliver scalable and reliable solutions.
-
----
-
-## 🤝 Connect With Me
+# 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manoj-h-d-6a781a293/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:manojd045@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manojhd28&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manojhd28&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Manojhd28&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Manojhd28&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
+# 🌱 Currently Learning
+
+```yaml
+Java:
+  - Advanced Collections
+  - Multithreading
+  - Spring Boot
+
+DevOps:
+  - Kubernetes
+  - Terraform
+  - Jenkins Pipelines
+
+Cloud:
+  - AWS Architecture
+  - Monitoring & Logging
+```
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/manoj-h-d-6a781a293/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:manojd045@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Manojhd28&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Manojhd28&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 </p>
 
----
-
-⭐ "Automate Everything, Scale Anywhere."
+<h2 align="center">
+☕ Code in Java • 🚀 Automate with DevOps • ☁️ Scale on AWS
+</h2>
